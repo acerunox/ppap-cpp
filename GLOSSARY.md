@@ -38,3 +38,34 @@
 | `type safety             ` | prevents performing certain operations on objects with a type that does not support them    |
 | `value                   ` | set of bits in memory that is interpreted according to a type                               |
 | `variable                ` | a named object                                                                              |
+| `abstraction             ` | hides the implementation details                                                            |
+| `begin()                 ` | member function that returns iterator pointing ot the first element of a sequence           |
+| `computation             ` | creating output based on an input                                                           |
+| `conditional statement   ` | statement that executes a block of code based on a bool (true/false)                        |
+| `declaration             ` | statement that names an object or function                                                  |
+| `definition              ` | setting aside a region of memory for an object                                              |
+| `divide and conquer      ` | dividing large problems into smaller ones and solving them                                  |
+| `else                    ` | part of if/else conditional statement                                                       |
+| `end()                   ` | member function that returns iterator pointing to the past-the-last element of a sequence   |
+| `expression              ` | computes a value from a set of operands                                                     |
+| `for-statement           ` | a loop that executes its body until the condition is no longer met                          |
+| `range-for-statement     ` | a loop that iterates over all elements of a sequence one by one                             |
+| `function                ` | a separate and named logical block of code                                                  |
+| `if-statement            ` | conditional statement taht executes if the condition is true                                |
+| `increment               ` | adding 1 to a variable                                                                      |
+| `input                   ` | information going into a program                                                            |
+| `iteration               ` | repetition, executing a piece of code repeatedly                                            |
+| `loop                    ` | a piece of code executed repeatedly                                                         |
+| `lvalue                  ` | left-hand operand of an assignment                                                          |
+| `member function         ` | function that is a member of a class                                                        |
+| `output                  ` | information going out of a program                                                          |
+| `push_back()             ` | member function that adds a new element at the end of a vector                              |
+| `repetition              ` | executing a piece of code repeatedly                                                        |
+| `rvalue                  ` | right-hand operand of an assignment                                                         |
+| `selection               ` | choosing among alternative actions                                                          |
+| `size()                  ` | member function that returns the amount of elements inside a vector                         |
+| `sort()                  ` | function that sorts all values in a sequence                                                |
+| `statement               ` | a piece of code that specifies an action                                                    |
+| `switch-statement        ` | statement that allows a selection based on some constants                                   |
+| `vector                  ` | a dynamic sequence of elements accessible by an index                                       |
+| `while-statement         ` | a loop that keeps executing while the condition is true                                     |
