@@ -69,3 +69,23 @@
 | `switch-statement        ` | statement that allows a selection based on some constants                                   |
 | `vector                  ` | a dynamic sequence of elements accessible by an index                                       |
 | `while-statement         ` | a loop that keeps executing while the condition is true                                     |
+| `argument error          ` | error occurring when arguments passed to a function are incorrect                           |
+| `assertion               ` | states an invariant                                                                         |
+| `catch                   ` | statement used to catch an exception                                                        |
+| `compile-time error      ` | error occurring during compiling                                                            |
+| `container               ` | data type that holds collection of other objects                                            |
+| `debugging               ` | process of removing bugs                                                                    |
+| `error                   ` | a mismatch between the expected behavior and what the program is actually doing             |
+| `exception               ` | abnormal condition that disrupts the program's normal flow                                  |
+| `invariant               ` | something that must be always true at a given point                                         |
+| `link-time error         ` | error occurring during the linking process                                                  |
+| `logic error             ` | error made by the programmer                                                                |
+| `post-condition          ` | a condition that must hold upon exit                                                        |
+| `pre-condition           ` | a condition that must hold upon entry                                                       |
+| `range error             ` | error occurring when trying to access an index that is out of range                         |
+| `requirement             ` | a description of desired behaviour                                                          |
+| `run-time error          ` | error occurring when the program is running                                                 |
+| `syntax error            ` | error occurring when code does not follow the C++ grammar                                   |
+| `testing                 ` | checking if the program is producing correct results and looking for errors                 |
+| `throw                   ` | statement used to 'throw' an exception                                                      |
+| `type error              ` | a mismatch between the declared type and the type of assigned values or expressions         |
