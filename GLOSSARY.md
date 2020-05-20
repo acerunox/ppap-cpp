@@ -89,3 +89,21 @@
 | `testing                 ` | checking if the program is producing correct results and looking for errors                 |
 | `throw                   ` | statement used to 'throw' an exception                                                      |
 | `type error              ` | a mismatch between the declared type and the type of assigned values or expressions         |
+| `analysis                ` | understanding what has to be done and writing a description of it                           |
+| `class                   ` | an user-defined type                                                                        |
+| `class member            ` | member of a class that represents data or allowed operations                                |
+| `data member             ` | member of a class that represents data                                                      |
+| `design                  ` | creating the structure for a program and thinking how parts of it will communicate          |
+| `divide by zero          ` | division that results in an error                                                           |
+| `grammar                 ` | set of rules that determines the structure of a program                                     |
+| `implementation          ` | process of writing the code, testing and debugging it                                       |
+| `interface               ` | a declaration that specifies how a piece of code can be called                              |
+| `member function         ` | member of a class that specifies what operations it can do                                  |
+| `parser                  ` | a program that reads a stream of tokens according to grammar                                |
+| `private                 ` | members of a class that aren't exposed to users                                             |
+| `prototype               ` | limited, initial version of a program                                                       |
+| `pseudo code             ` | a description of computation that's not written in a programming language                   |
+| `public                  ` | members of a class that can be accessed by users                                            |
+| `syntax analyzer         ` | a parser                                                                                    |
+| `token                   ` | a symbol, basic component that could be a keyword or an operator                            |
+| `use case                ` | a specific use of a program to test its functionality and showcase its purpose              |
