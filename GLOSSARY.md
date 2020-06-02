@@ -107,3 +107,13 @@
 | `syntax analyzer         ` | a parser                                                                                    |
 | `token                   ` | a symbol, basic component that could be a keyword or an operator                            |
 | `use case                ` | a specific use of a program to test its functionality and showcase its purpose              |
+| `code layout             ` | structure of the code                                                                       |
+| `commenting              ` | putting comments in the code to provide context                                             |
+| `error handling          ` | managing errors and how the program reacts to them                                          |
+| `feature creep           ` | adding too many time-consuming 'neat features' that make the program hard to maintain       |
+| `maintenance             ` | keeping the code in good condition, fixing problems, improving performance                  |
+| `recovery                ` | the way program recovers from an error                                                      |
+| `revision history        ` | a changelog                                                                                 |
+| `scaffolding             ` | skeleton of a program that allows it to start, stop and handle fatal errors                 |
+| `symbolic constant       ` | a name that represents a value that won't change                                            |
+| `testing                 ` | checking if the program is producing correct results and looking for error                  |
