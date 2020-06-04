@@ -1,3 +1,8 @@
+/*
+Exercise 02: Write a function print() that prints a vector of ints to cout.
+             Give it two arguments: a string for “labeling” the output and a vector.
+*/
+
 #include <iostream>
 #include <vector>
 

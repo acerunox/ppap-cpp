@@ -1,3 +1,8 @@
+/*
+Exercise 03: Create a vector of Fibonacci numbers and print them using the function from exercise 2.
+             To create the vector, write a function, fibonacci(x,y,v,n), where integers x and y are ints, v is an empty vector<int>, and n is the number of elements to put into v;
+*/
+
 #include "../../lib/utilities.h"
 #include <iostream>
 #include <vector>
