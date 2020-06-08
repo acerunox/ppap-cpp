@@ -1,3 +1,9 @@
+/*
+Exercise 11: Write a function that finds the smallest and the largest element of a vector argument and also computes the mean and the median.
+             Do not use global variables.
+             Either return a struct containing the results or pass them back through reference arguments.
+*/
+
 #include "../../lib/utilities.h"
 #include <algorithm>
 #include <iostream>

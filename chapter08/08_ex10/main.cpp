@@ -1,3 +1,7 @@
+/*
+Exercise 10: Write a function maxv() that returns the largest element of a vector argument.
+*/
+
 #include "../../lib/utilities.h"
 #include <iostream>
 #include <limits.h>
