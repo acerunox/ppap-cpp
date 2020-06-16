@@ -117,3 +117,36 @@
 | `scaffolding             ` | skeleton of a program that allows it to start, stop and handle fatal errors                 |
 | `symbolic constant       ` | a name that represents a value that won't change                                            |
 | `testing                 ` | checking if the program is producing correct results and looking for error                  |
+| `activation record       ` | data structure that describes execution routine of a function                               |
+| `argument                ` | value or reference passed to a function                                                     |
+| `argument passing        ` | process of passing an argument to a function                                                |
+| `call stack              ` | data structure consisting of activation records, it grows and shrinks                       |
+| `class scope             ` | block of code that begins at class declaration and includes its members                     |
+| `const                   ` | keyword for declaring constant variables (value needs to be known at compile time)          |
+| `constexpr               ` | keyword for declaring constant variables that will be evaluated at compile time             |
+| `declaration             ` | statement that introduces a name with type into a scope                                     |
+| `definition              ` | a declaration that sets aside memory and specifies what a name refers to exactly            |
+| `extern                  ` | keyword used to signalize that statement is a declaration and definition is somewhere else  |
+| `forward declaration     ` | declaration of an identifier in advance without a full definition                           |
+| `function                ` | a named block of code that can be called from other parts of a program                      |
+| `function definition     ` | provides the function's body                                                                |
+| `global scope            ` | scope that is accessible anywhere in the program                                            |
+| `header file             ` | file containing declarations                                                                |
+| `initializer             ` | assigns an initial value to an object                                                       |
+| `local scope             ` | code betwen curly brackets or function argument list                                        |
+| `namespace               ` | a named block used to organize code                                                         |
+| `namespace scope         ` | code inside a particular namespace                                                          |
+| `nested block            ` | block of code within another block                                                          |
+| `parameter               ` | declaration of an input to function, arguments passed can be accessed by parameters' names  |
+| `pass-by-const-reference ` | argument passed to a function is read-only                                                  |
+| `pass-by-reference       ` | argument passed to a function can be directly modified                                      |
+| `pass-by-value           ` | function creates a local copy of the passed argument                                        |
+| `recursion               ` | happens when a function calls itself                                                        |
+| `return                  ` | statement that terminates a function and returns a specified value                          |
+| `return value            ` | the value returned from a function                                                          |
+| `scope                   ` | a region of code in which declared names are accessible only in that block                  |
+| `statement scope         ` | code within a for-loop or if statement etc.                                                 |
+| `technicalities          ` | concepts in programming language, that might be shared with other languages                 |
+| `undeclared identifier   ` | error given by compiler whenever a declaration for an identifier (name) cannot be found     |
+| `using declaration       ` | introduces a member of antoher namespace into current block or namespace                    |
+| `using directive         ` | introduces whole different namespace into current block or namespace                        |
