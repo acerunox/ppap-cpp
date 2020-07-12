@@ -148,5 +148,24 @@
 | `statement scope         ` | code within a for-loop or if statement etc.                                                 |
 | `technicalities          ` | concepts in programming language, that might be shared with other languages                 |
 | `undeclared identifier   ` | error given by compiler whenever a declaration for an identifier (name) cannot be found     |
-| `using declaration       ` | introduces a member of antoher namespace into current block or namespace                    |
+| `using declaration       ` | introduces a member of another namespace into current block or namespace                    |
 | `using directive         ` | introduces whole different namespace into current block or namespace                        |
+| `built-in types          ` | types that are recognized by a compiler by default                                          |
+| `class                   ` | an user-defined type, members are private by default                                        |
+| `const                   ` | keyword used for declaring constant variables                                               |
+| `constructor             ` | a special member function of a class that is called on initialization of an object          |
+| `destructor              ` | a special member function of a class that is called to destroy an object                    |
+| `enum                    ` | keyword for declaring enumerations                                                          |
+| `enumeration             ` | an user-defined type that specifies a set of values as symbolic constants                   |
+| `enumerator              ` | a value inside an enumeration                                                               |
+| `helper function         ` | a function that is not a member of a class, but provides an useful functionality to it      |
+| `implementation          ` | private part of a class/struct, inaccessible by users                                       |
+| `in-class initializer    ` | member initializer that is a part of the member's declaration inside a class                |
+| `inlining                ` | generating the code for a function at each call, useful and beneficial for tiny functions   |
+| `interface               ` | public part of a class/struct, accessible by users                                          |
+| `invariant               ` | something that is always true at a given point of a program                                 |
+| `representation          ` | type knowledge on how to represent data in an object                                        |
+| `struct                  ` | an user-defined type, members are public by default                                         |
+| `structure               ` | a named collection of data                                                                  |
+| `user-defined types      ` | custom data type that can hold its own data members and member function                     |
+| `valid state             ` | the valid value of an object                                                                |
