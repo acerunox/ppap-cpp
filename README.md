@@ -1,6 +1,6 @@
 # Exercises from "Programming: Principles and Practice Using C++"
 
-This repository contains exercises that I have done from the book **Programming: Principles and Practice Using C++ (2014)** by *Bjarne Stroustrup*. All of them were done on Manjaro Linux with Visual Studio Code. I've previously done exercies up to chapter 10 (using Windows 10 with Visual Studio Community 2019), however after taking a longer break I've felt that it would be better to start over.
+This repository contains exercises that I have done from the book **Programming: Principles and Practice Using C++ (2014)** by *Bjarne Stroustrup*. All of them were done on either Manjaro Linux or Windows 10. I've previously done exercies up to chapter 10, however after taking a longer break I've felt that it would be better to start over.
 
 Some points: 
 -   I don't use the provided `std_lib_facilities.h`, I prefer to include libraries on my own.
