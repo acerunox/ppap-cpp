@@ -1,0 +1,1 @@
+snakes cows 23 19 bears: 17 elephants 9 1 a 2d d2 end
