@@ -169,3 +169,26 @@
 | `structure               ` | a named collection of data                                                                  |
 | `user-defined types      ` | custom data type that can hold its own data members and member function                     |
 | `valid state             ` | the valid value of an object                                                                |
+| `bad()                   ` | function to check badbit state flag                                                         |
+| `buffer                  ` | data structure used to store data internally                                                |
+| `clear()                 ` | input stream function used to set its state or make the state good, if no argument          |
+| `close()                 ` | function used to close an input/output stream for files                                     |
+| `device driver           ` | a program that controls a piece  of hardware and allows for interaction with it             |
+| `eof()                   ` | function to check eofbit state flag                                                         |
+| `fail()                  ` | function to check failbit state flag                                                        |
+| `file                    ` | a sequence of bytes                                                                         |
+| `good()                  ` | function to check goodbit state flag                                                        |
+| `ifstream                ` | input stream for files (reading a file)                                                     |
+| `input device            ` | device that's the source of data, e.g. a keyboard                                           |
+| `input operator          ` | the >> operator                                                                             |
+| `iostream                ` | input/output stream                                                                         |
+| `istream                 ` | input stream                                                                                |
+| `ofstream                ` | output stream for files (writing to file)                                                   |
+| `open()                  ` | function used to open an input/output stream for files                                      |
+| `ostream                 ` | output stream                                                                               |
+| `output device           ` | device that's the data's destination, e.g. a display                                        |
+| `output operator         ` | the << operator                                                                             |
+| `stream state            ` | a specific state of a stream, that can be used to see if IO operation was successful        |
+| `structured file         ` | a file with a certain structure and format like HTML or XML files                           |
+| `terminator              ` | character that terminates a loop/function/etc.                                              |
+| `unget()                 ` | function that puts the last character back into the buffer                                  |
