@@ -1,0 +1,6 @@
+= 4
+= 3
+= 6
+= 54
+[ERROR] Variable 'a4' couldn't be found.
+= 8
