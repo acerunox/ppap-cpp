@@ -22,3 +22,8 @@ inline int RandomInRange(const int &min, const int &max)
     std::uniform_int_distribution<int> distribution{ min, max };
     return distribution(mtEngine);
 }
+
+template <class T> char* AsBytes(T& x) 
+{
+    return &reinterpret_cast<char&>(x);
+}
