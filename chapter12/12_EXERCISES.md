@@ -16,3 +16,6 @@
 
 ## Exercise 04
 1. Draw a 3-by-3 tic-tac-toe board of alternating white and red squares.
+
+## Exercise 05
+1. Draw a red 1/4-inch frame around a rectangle that is three-quarters the height of your screen and two-thirds the width.
