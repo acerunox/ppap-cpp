@@ -19,3 +19,8 @@
 
 ## Exercise 05
 1. Draw a red 1/4-inch frame around a rectangle that is three-quarters the height of your screen and two-thirds the width.
+
+## Exercise 06
+1. What happens when you draw a Shape that doesn’t fit inside its window?
+1. What happens when you draw a Window that doesn’t fit on your screen?
+1. Write two programs that illustrate these two phenomena.
