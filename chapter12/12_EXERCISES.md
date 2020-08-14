@@ -5,3 +5,6 @@
 
 ## Exercise 01
 1. Draw a rectangle as a Rectangle and as a Polygon. Make the lines of the Polygon red and the lines of the Rectangle blue.
+
+## Exercise 02
+1. Draw a 100-by-30 Rectangle and place the text “Howdy!” inside it.
