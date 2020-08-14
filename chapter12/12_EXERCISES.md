@@ -8,3 +8,8 @@
 
 ## Exercise 02
 1. Draw a 100-by-30 Rectangle and place the text “Howdy!” inside it.
+
+## Exercise 03
+1. Draw your initials 150 pixels high. 
+1. Use a thick line. 
+1. Draw each initial in a different color.
