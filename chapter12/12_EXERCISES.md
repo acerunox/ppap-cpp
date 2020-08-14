@@ -13,3 +13,6 @@
 1. Draw your initials 150 pixels high. 
 1. Use a thick line. 
 1. Draw each initial in a different color.
+
+## Exercise 04
+1. Draw a 3-by-3 tic-tac-toe board of alternating white and red squares.
