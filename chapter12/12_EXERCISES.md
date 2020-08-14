@@ -28,3 +28,7 @@
 ## Exercise 07
 1. Draw a two-dimensional house seen from the front, the way a child would: with a door, two windows, and a roof with a chimney.
 1. Feel free to add details; maybe have “smoke” come out of the chimney.
+
+## Exercise 08
+1. Draw the Olympic five rings.
+1. If you can’t remember the colors, look them up.
