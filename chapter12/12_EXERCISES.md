@@ -24,3 +24,7 @@
 1. What happens when you draw a Shape that doesn’t fit inside its window?
 1. What happens when you draw a Window that doesn’t fit on your screen?
 1. Write two programs that illustrate these two phenomena.
+
+## Exercise 07
+1. Draw a two-dimensional house seen from the front, the way a child would: with a door, two windows, and a roof with a chimney.
+1. Feel free to add details; maybe have “smoke” come out of the chimney.
