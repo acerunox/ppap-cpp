@@ -32,3 +32,7 @@
 ## Exercise 08
 1. Draw the Olympic five rings.
 1. If you can’t remember the colors, look them up.
+
+## Exercise 09
+1. Display an image on the screen, e.g., a photo of a friend.
+1. Label the image both with a title on the window and with a caption in the window.
