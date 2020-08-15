@@ -35,4 +35,7 @@
 
 ## Exercise 09
 1. Display an image on the screen, e.g., a photo of a friend.
-1. Label the image both with a title on the window and with a caption in the window.
+1. Label the image both with a title on the window and with a caption in the window. 
+
+## Exercise 10
+1. Draw the file diagram from §12.8.
