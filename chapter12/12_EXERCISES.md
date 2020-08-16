@@ -39,3 +39,9 @@
 
 ## Exercise 10
 1. Draw the file diagram from §12.8.
+
+## Exercise 11
+1. Draw a series of regular polygons, one inside the other.
+1. The innermost should be an equilateral triangle, enclosed by a square, enclosed by a pentagon, etc.
+1. For the mathematically adept only: let all the points of each N-polygon touch sides of the (N+1)-polygon.
+1. Hint: The trigonometric functions are found in <cmath>.
