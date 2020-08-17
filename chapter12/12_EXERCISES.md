@@ -45,3 +45,14 @@
 1. The innermost should be an equilateral triangle, enclosed by a square, enclosed by a pentagon, etc.
 1. For the mathematically adept only: let all the points of each N-polygon touch sides of the (N+1)-polygon.
 1. Hint: The trigonometric functions are found in <cmath>.
+
+## Exercise 12
+1. Look up superellipse on the web to get a better idea of what such shapes look like.
+1. Write a program that draws “starlike” patterns by connecting points on a superellipse.
+1. Take a, b, m, n, and N as arguments.
+1. Select N points on the superellipse defined by a, b, m, and n.
+1. Make the points equally spaced for some definition of “equal.”
+1. Connect each of those N points to one or more other points (if you like you can make the number of points to which to connect a point another argument or just use N–1, i.e., all the other points).
+
+## Exercise 13
+1. Find a way to add color to the lines from the previous exercise. Make some lines one color and other lines another color or other colors.
