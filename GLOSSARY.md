@@ -210,3 +210,18 @@
 | `scientific               ` | flag used to set floating-point format, scientific format                                   |
 | `setprecision()           ` | function that sets the precision of floating-point numbers                                  |
 | `showbase                 ` | flag that affects output of integers (shows the base prefix)                                |
+| `color                    ` | combination of red, green and blue light                                                    |
+| `coordinates              ` | set of values that show an exact position                                                   |
+| `display                  ` | screen used to display the computer output                                                  |
+| `fill color               ` | color that fills the inside of a polygon                                                    |
+| `FLTK                     ` | GUI toolkit - Fast Light Tool Kit                                                           |
+| `graphics                 ` | visual presentations of objects                                                             |
+| `GUI                      ` | graphical user interface                                                                    |
+| `GUI library              ` | library used to construct graphical user interface                                          |
+| `HTML                     ` | layout (markup) language - HyperText Markup Language                                        |
+| `image                    ` | binary representation of visual information                                                 |
+| `JPEG                     ` | method of lossy image compression                                                           |
+| `line style               ` | style of the drawn line                                                                     |
+| `software layer           ` | abstraction between the software/code and the OS in which it is running                     |
+| `window                   ` | area on screen that displays information for a specific program                             |
+| `XML                      ` | layout (markup) language - Extensible Markup Language                                       |
