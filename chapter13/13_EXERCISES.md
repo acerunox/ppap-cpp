@@ -7,3 +7,7 @@
 
 ## Exercise 01
 1. Define a class Arc, which draws a part of an ellipse. Hint: fl_arc().
+
+## Exercise 02
+1. Draw a box with rounded corners.
+1. Define a class Box, consisting of four lines and four arcs.
